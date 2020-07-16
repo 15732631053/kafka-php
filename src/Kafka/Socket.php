@@ -187,7 +187,7 @@ class Socket
      */
     public function setRecvTimeoutSec($recvTimeoutSec)
     {
-        $this->recvTimeoutSec = $recvTimeoutSec;
+        $this->recvTimeoutSec = $recvTimeoutSec + 3;
     }
 
     /**

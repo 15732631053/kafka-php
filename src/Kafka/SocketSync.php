@@ -152,7 +152,7 @@ class SocketSync
      */
     public function setRecvTimeoutSec($recvTimeoutSec)
     {
-        $this->recvTimeoutSec = $recvTimeoutSec;
+        $this->recvTimeoutSec = $recvTimeoutSec + 3;
     }
 
     /**
