@@ -1,12 +1,12 @@
 {
-    "name": "nmred/kafka-php",
+    "name": "xiaoe/kafka-php",
     "description": "Kafka client for php",
     "type": "library",
     "keywords": [
         "Client",
         "Kafka"
     ],
-    "homepage": "http://www.swanlinux.net",
+    "homepage": "https://www.xiaoe-tech.com",
     "license": "BSD-3-Clause",
     "require": {
         "php": ">=5.5",
@@ -27,8 +27,8 @@
     "require-dev": {
         "satooshi/php-coveralls": "dev-master",
         "phpunit/phpcov": "*",
-	"monolog/monolog" : "1.22.1",
-	"kmelia/monolog-stdout-handler" : "1.2.1",
+	    "monolog/monolog" : "1.22.1",
+	    "kmelia/monolog-stdout-handler" : "1.2.1",
         "phpunit/PHPUnit": "~4.0"
     }
 }
