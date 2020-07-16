@@ -34,7 +34,7 @@ Simply add a dependency on nmred/kafka-php to your project's composer.json file 
 ```
 {
 	"require": {
-		"nmred/kafka-php": "0.2.*"
+		"xiaoe/kafka-php": "0.2.*"
 	}
 }
 ```

@@ -31,7 +31,7 @@ Kafka-php 使用纯粹的PHP 编写的 kafka 客户端，目前支持 0.8.x 以�
 ```
 {
 	"require": {
-		"nmred/kafka-php": "0.2.*"
+		"xiaoe/kafka-php": "0.2.*"
 	}
 }
 ```
