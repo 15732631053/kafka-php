@@ -150,8 +150,3 @@ $consumer->start(function($topic, $part, $message) {
 
 Refer [Example](https://github.com/weiboad/kafka-php/tree/master/example)
 
-
-## QQ Group
-
-531522091
-![QQ Group](docs/qq_group.png)

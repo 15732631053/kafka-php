@@ -147,7 +147,3 @@ $consumer->start(function($topic, $part, $message) {
 
 基础协议 API 调用方式见 [Example](https://github.com/weiboad/kafka-php/tree/master/example)
 
-## QQ 群号 
-
-531522091
-![QQ Group](docs/qq_group.png)
