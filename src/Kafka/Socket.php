@@ -171,7 +171,7 @@ class Socket
      */
     public function setSendTimeoutSec($sendTimeoutSec)
     {
-        $this->sendTimeoutSec = $sendTimeoutSec;
+        $this->sendTimeoutSec = $sendTimeoutSec + 3;
     }
 
     /**
