@@ -29,6 +29,6 @@
         "phpunit/phpcov": "*",
 	    "monolog/monolog" : "1.22.1",
 	    "kmelia/monolog-stdout-handler" : "1.2.1",
-        "phpunit/PHPUnit": "~4.0"
+        "phpunit/phpunit": "~4.0"
     }
 }
