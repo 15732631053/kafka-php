@@ -1,5 +1,5 @@
 {
-    "name": "xiaoe-tech/kafka_php",
+    "name": "xiaoe-tech/kafka-php",
     "description": "Kafka client for php",
     "type": "library",
     "keywords": [
