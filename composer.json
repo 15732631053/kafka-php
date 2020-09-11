@@ -9,8 +9,7 @@
     "homepage": "https://www.xiaoe-tech.com",
     "license": "BSD-3-Clause",
     "require": {
-        "php": ">=5.5",
-	"psr/log" : ">=1.0.2",
+        "php": ">=5.6"
 	"amphp/amp": "v1.2.2"
     },
     "autoload": {
